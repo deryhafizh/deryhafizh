@@ -4,9 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Halo,%20aku%20Znt%20🌙&fontSize=42&fontColor=FFF3E0&fontAlignY=38&desc=ngopi%20dulu,%20ngoding%20kemudian%20☕&descSize=17&descAlignY=60" alt="header" />
 
-<a href="https://github.com/deryhafizh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F4A261&center=true&vCenter=true&width=520&height=45&lines=Selamat+datang+di+pojok+kecilku+🏡;Lagi+belajar+programming+pelan-pelan+🌱;Suka+bikin+proyek+kecil+yang+bermanfaat+✨;Yuk+ngobrol+sambil+ngopi+☕" alt="Typing SVG" />
-</a>
+<img src="assets/typing.svg" alt="Typing animation" width="600"/>
 
 <br/>
 
@@ -68,12 +66,8 @@
 
 <div align="center">
 
-<a href="https://github.com/deryhafizh/Project-IMDB-Statistik">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deryhafizh&repo=Project-IMDB-Statistik&bg_color=2d2420&title_color=f4a261&text_color=e9d8c4&icon_color=e76f51&border_color=5a4636&hide_border=false" alt="Project IMDB Statistik"/>
-</a>
-<a href="https://github.com/deryhafizh/Zeta-web-byZnt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deryhafizh&repo=Zeta-web-byZnt&bg_color=2d2420&title_color=f4a261&text_color=e9d8c4&icon_color=e76f51&border_color=5a4636&hide_border=false" alt="Zeta Web"/>
-</a>
+<a href="https://github.com/deryhafizh/Project-IMDB-Statistik"><img src="assets/repo-imdb.svg" alt="Project IMDB Statistik" width="400"/></a>
+<a href="https://github.com/deryhafizh/Zeta-web-byZnt"><img src="assets/repo-zeta.svg" alt="Zeta Web" width="400"/></a>
 
 </div>
 
@@ -103,16 +97,14 @@ Website buatanku sebagai latihan membangun halaman web dari nol.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deryhafizh&show_icons=true&hide_border=false&bg_color=2d2420&title_color=f4a261&text_color=e9d8c4&icon_color=e76f51&border_color=5a4636&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryhafizh&layout=compact&hide_border=false&bg_color=2d2420&title_color=f4a261&text_color=e9d8c4&border_color=5a4636" alt="Top languages"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=deryhafizh&background=2d2420&ring=f4a261&fire=e76f51&currStreakNum=e9d8c4&currStreakLabel=f4a261&sideNums=e9d8c4&sideLabels=e9c46a&dates=b8a590&stroke=5a4636&border=5a4636" alt="Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deryhafizh&bg_color=2d2420&color=e9d8c4&line=f4a261&point=e76f51&area=true&area_color=f4a261&hide_border=true" alt="Activity graph"/>
+![Python](https://img.shields.io/badge/Bahasa_utama-Python-3572A5?style=flat-square&labelColor=3d2c24)
+![HTML](https://img.shields.io/badge/Bahasa_kedua-HTML-e34c26?style=flat-square&labelColor=3d2c24)
+![Followers](https://img.shields.io/github/followers/deryhafizh?label=Followers&style=flat-square&color=f4a261&labelColor=3d2c24)
+![Following](https://img.shields.io/badge/Following-2-e9c46a?style=flat-square&labelColor=3d2c24)
 
 </div>
 
@@ -142,7 +134,9 @@ Website buatanku sebagai latihan membangun halaman web dari nol.
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Satu+baris+kode+hari+ini+lebih+baik+daripada+nol+baris.&author=Znt" alt="quote"/>
+
+> ✨ *Satu baris kode hari ini lebih baik daripada nol baris.* ✨
+
 </div>
 
 </details>
