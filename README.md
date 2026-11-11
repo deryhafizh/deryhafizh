@@ -83,9 +83,9 @@ Halo! Aku **Dery Hafizh Latief** (Znt), mahasiswa **Informatika Universitas Guna
 
 <div align="center">
 
-<a href="https://github.com/deryhafizh/Project-IMDB-Statistik"><img src="assets/repo-imdb.svg" alt="Project IMDB Statistik" width="400"/></a>
+<a href="https://project-imdb-statistik-o67m6svvssvp973uvaqwc6.streamlit.app/"><img src="assets/repo-imdb.svg" alt="Project IMDB Statistik" width="400"/></a>
 <a href="https://github.com/deryhafizh/Zeta-web-byZnt"><img src="assets/repo-zeta.svg" alt="Zeta Web" width="400"/></a>
-<a href="https://github.com/deryhafizh/scan-to-guidance"><img src="assets/repo-guardians.svg" alt="scan-to-guidance (Guardians)" width="400"/></a>
+<a href="https://scan-to-guidance.lovable.app"><img src="assets/repo-guardians.svg" alt="scan-to-guidance (Guardians)" width="400"/></a>
 
 </div>
 
@@ -115,7 +115,7 @@ Website bertema Vestia Zeta (Hololive ID) yang kubuat dari nol dengan `index.htm
 
 **Guardians** membantu mengenali dan mengatasi pesan penipuan. Tempel pesan yang mencurigakan, tekan **Scan pesan**, lalu dapatkan langkah penyelamatan otomatis sesuai modus penipuannya. Alurnya sederhana: **Recognize · Learn · Act**, yaitu kenali, pelajari, lalu bertindak.
 
-🔗 [Coba demo langsung](https://scan-to-guidance.lovable.app) · [Lihat repositori](https://github.com/deryhafizh/scan-to-guidance)
+🔗 [Lihat repositori](https://github.com/deryhafizh/scan-to-guidance)
 
 </details>
 
