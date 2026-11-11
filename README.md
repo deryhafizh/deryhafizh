@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deryhafizh&label=Pengunjung+warung&color=e76f51&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/deryhafizh?label=Followers&style=flat-square&color=f4a261&labelColor=3d2c24)
-![Repos](https://img.shields.io/badge/Repositori-4-e9c46a?style=flat-square&labelColor=3d2c24)
+![Repos](https://img.shields.io/badge/Repositori-5-e9c46a?style=flat-square&labelColor=3d2c24)
 
 <br/>
 
