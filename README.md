@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deryhafizh&label=Pengunjung+warung&color=e76f51&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/deryhafizh?label=Followers&style=flat-square&color=f4a261&labelColor=3d2c24)
-![Repos](https://img.shields.io/badge/Repositori-3-e9c46a?style=flat-square&labelColor=3d2c24)
+![Repos](https://img.shields.io/badge/Repositori-4-e9c46a?style=flat-square&labelColor=3d2c24)
 
 <br/>
 
@@ -85,6 +85,7 @@ Halo! Aku **Dery Hafizh Latief** (Znt), mahasiswa **Informatika Universitas Guna
 
 <a href="https://github.com/deryhafizh/Project-IMDB-Statistik"><img src="assets/repo-imdb.svg" alt="Project IMDB Statistik" width="400"/></a>
 <a href="https://github.com/deryhafizh/Zeta-web-byZnt"><img src="assets/repo-zeta.svg" alt="Zeta Web" width="400"/></a>
+<a href="https://github.com/deryhafizh/scan-to-guidance"><img src="assets/repo-guardians.svg" alt="scan-to-guidance (Guardians)" width="400"/></a>
 
 </div>
 
@@ -105,6 +106,16 @@ Proyek analisis statistik dari dataset IMDB. Isinya aplikasi `app.py`, data `IMB
 Website bertema Vestia Zeta (Hololive ID) yang kubuat dari nol dengan `index.html` dan `style.css`. Ada juga halaman media sosial dan mini game roll (`Game.html` + `game.py`) dengan hasil epic, langka, dan gagal.
 
 🔗 [Lihat repositori](https://github.com/deryhafizh/Zeta-web-byZnt)
+
+</details>
+
+<details open>
+<summary><b>🛡️ scan-to-guidance (Guardians)</b> <sub>(Web app)</sub></summary>
+<br/>
+
+**Guardians** membantu mengenali dan mengatasi pesan penipuan. Tempel pesan yang mencurigakan, tekan **Scan pesan**, lalu dapatkan langkah penyelamatan otomatis sesuai modus penipuannya. Alurnya sederhana: **Recognize · Learn · Act**, yaitu kenali, pelajari, lalu bertindak.
+
+🔗 [Coba demo langsung](https://scan-to-guidance.lovable.app) · [Lihat repositori](https://github.com/deryhafizh/scan-to-guidance)
 
 </details>
 
