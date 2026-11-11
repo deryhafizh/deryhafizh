@@ -84,7 +84,7 @@ Halo! Aku **Dery Hafizh Latief** (Znt), mahasiswa **Informatika Universitas Guna
 <div align="center">
 
 <a href="https://project-imdb-statistik-o67m6svvssvp973uvaqwc6.streamlit.app/"><img src="assets/repo-imdb.svg" alt="Project IMDB Statistik" width="400"/></a>
-<a href="https://github.com/deryhafizh/Zeta-web-byZnt"><img src="assets/repo-zeta.svg" alt="Zeta Web" width="400"/></a>
+<a href="https://deryhafizh.github.io/Zeta-web-byZnt/"><img src="assets/repo-zeta.svg" alt="Zeta Web" width="400"/></a>
 <a href="https://scan-to-guidance.lovable.app"><img src="assets/repo-guardians.svg" alt="scan-to-guidance (Guardians)" width="400"/></a>
 
 </div>
