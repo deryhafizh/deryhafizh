@@ -172,7 +172,7 @@ Punya ide, peluang, atau proyek? Yuk ngobrol!
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-derycikampek@gmail.com-e9c46a?style=for-the-badge&logo=gmail&logoColor=2d2420&labelColor=3d2c24)](mailto:derycikampek@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dery_Hafizh-e76f51?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3d2c24)](https://www.linkedin.com/in/dery-hafizh-372634449/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dery_Hafizh-e76f51?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3d2c24)]([https://www.linkedin.com/in/dery-hafizh-372634449/](https://www.linkedin.com/in/deryhafizh/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-dery--builds--a--future-f4a261?style=for-the-badge&logo=googlechrome&logoColor=2d2420&labelColor=3d2c24)](https://dery-builds-a-future.lovable.app)
 
 <br/>
