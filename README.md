@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Kunjungi_websiteku-e76f51?style=for-the-badge&labelColor=3d2c24)](https://dery-builds-a-future.lovable.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Kunjungi_websiteku-e76f51?style=for-the-badge&labelColor=3d2c24)](https://deryhafizh-porto-self-tau.vercel.app/)
 
 </div>
 
